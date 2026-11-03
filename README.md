@@ -76,7 +76,7 @@ configuration reference and production deployment guide.
 
 ## License & credits
 
-Trilli was designed and built by **Michael Bahlitzanakis**.
+Trilli was designed and built by **Michail Bachlitzanakis**.
 
 Released under the [MIT License](LICENSE). The Trilli name and logo identify
 the original project and its hosted service; if you fork and operate your own
